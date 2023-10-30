@@ -10,8 +10,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
-- Live Site URL: [Here](https://your-live-site-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/results-summary-component-S7fm3qFOs9)
+- Live Site URL: [Here](https://dejair-velozo.github.io/results-summary-component-main/)
 
 
 
